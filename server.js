@@ -12,7 +12,15 @@ var express = require("express");
 // Sets up the Express App
 // =============================================================
 var app = express();
-var PORT = 3000;
+// var PORT = 3000;
+ // change to port to accomodate heroku --------
+
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(`Our app is running on port ${ PORT }`);
+});
+
+// ----------------------------------------------
 
 app.use(express.static("app/public"));
 
