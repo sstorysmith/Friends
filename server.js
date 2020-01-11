@@ -13,7 +13,7 @@ var express = require("express");
 // =============================================================
 var app = express();
 // var PORT = 3000;
- // change to port to accomodate heroku --------
+// change to port to accomodate heroku --------s
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
@@ -43,6 +43,6 @@ app.use(express.json());
 // Starts the server to begin listening
 // =============================================================
 
-app.listen(PORT, function() {
+// app.listen(PORT, function() {
   console.log("App listening on PORT " + PORT);
 });
