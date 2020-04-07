@@ -18,41 +18,7 @@ function score(array1, array2) {
   return diff;
 }
 
-// Function ------------------------------------------------------------
-// determine ALL compatible  survey participants
-// function determineAll(array1, array2) {
-//   let i = 0;
-//   let j = 0;
 
-//   for (i = 0; array1.length; i++) {
-//     var leastDiffUser = 40;
-//     var lastDifference = 40;
-//     var difference = 0;
-
-//     console.log(
-//       array1 + array2 + "-------------------- entering for loop  " + array1[i]
-//     );
-
-//     for (j = 0; array1.length; j++) {
-//       console.log(i + "  " + j);
-//       if (i != j) {
-//         difference = score(array1.scores, array2);
-//       }
-
-//       console.log("difference =" + array1[i] + "     " + array2[j]);
-//       if (difference < lastDifference) {
-//         console.log("Replace LEAST difference = " + j);
-//         lastDifference = difference;
-//         leastDiffUser = j;
-//       }
-//     }
-//   }
-//   return AllFriendsArray[leastDiffUser];
-// }
-
-// Function ------------------------------------------------------------
-// determine  compatibility with current survey participant
-//
 function determine(array1, array2) {
   //function determine (answerUser1, answerUser2) {
   console.log(" in DETERMINE = " + array1 + " array2 :" + array2);
