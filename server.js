@@ -37,7 +37,7 @@ app.use(express.json());
 
  var apiRoutes= require("./app/routing/apiRoutes.js")(app); 
  var htmlRoutes= require("./app/routing/htmlRoutes.js");
- htmlRoutes(app); 
+    htmlRoutes(app); 
  
 // Server
 // Starts the server to begin listening
