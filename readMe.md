@@ -4,13 +4,13 @@ Sharon Story Smith storysmithaharon@gmail.com
 Bootstrap, NodeJS, ExpressJS, jQuery
 
 Screen Shots:
-    <img width=“1097” alt=“trainPrintScreen.jpg” src=“PrintScreen.jpg”>
+    
     ![screenshot of train](.\FriendF1ScreenShot.png)
 
-    <img width=“1097” alt=“trainPrintScreen.jpg” src=“PrintScreen.jpg”>
+   
     ![screenshot of train](.\FriendF2ScreenShot.png)
 
-    <img width=“1097” alt=“trainPrintScreen.jpg” src=“PrintScreen.jpg”>
+    
     ![screenshot of train](.\FriendF3ScreenShot.png)
 
 Working Demo:
