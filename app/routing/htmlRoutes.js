@@ -34,9 +34,6 @@ console.log(path.join(__dirname, "../public/home.html"));
   res.sendFile(path.join(__dirname, "../public/home.html"));
   });
 
-
-
-
 }
 
         

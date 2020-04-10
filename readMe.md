@@ -1,4 +1,4 @@
-friends
+Friends
 Sharon Story Smith storysmithaharon@gmail.com
 2019-01-20
 Bootstrap, NodeJS, ExpressJS, jQuery
