@@ -1,17 +1,14 @@
 Friends
-Sharon Story Smith storysmithaharon@gmail.com
+Sharon Story Smith storysmithsharon@gmail.com
 2019-01-20
 Bootstrap, NodeJS, ExpressJS, jQuery
 
 Screen Shots:
-    
-    ![screenshot of train](.\FriendF1ScreenShot.png)
+    [screenshot of train](.\FriendF1ScreenShot.png)
 
-   
-    ![screenshot of train](.\FriendF2ScreenShot.png)
+    [screenshot of train](.\FriendF2ScreenShot.png)
 
-    
-    ![screenshot of train](.\FriendF3ScreenShot.png)
+    [screenshot of train](.\FriendF3ScreenShot.png)
 
 Working Demo:
     https://blooming-dawn-72157.herokuapp.com/
