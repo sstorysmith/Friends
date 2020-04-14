@@ -5,9 +5,7 @@ Bootstrap, NodeJS, ExpressJS, jQuery
 
 Screen Shots:
     [screenshot 1](FriendF1ScreenShot.png)
-
     [screenshot 2](FriendF2ScreenShot.png)
-
     [screenshot 3 ](FriendF3ScreenShot.png)
 
 Working Demo:
