@@ -4,11 +4,11 @@ Sharon Story Smith storysmithsharon@gmail.com
 Bootstrap, NodeJS, ExpressJS, jQuery
 
 Screen Shots:
-    [screenshot 1](.\FriendF1ScreenShot.png)
+    [screenshot 1](FriendF1ScreenShot.png)
 
-    [screenshot 2](.\FriendF2ScreenShot.png)
+    [screenshot 2](FriendF2ScreenShot.png)
 
-    [screenshot 3 ](.\FriendF3ScreenShot.png)
+    [screenshot 3 ](FriendF3ScreenShot.png)
 
 Working Demo:
     https://blooming-dawn-72157.herokuapp.com/
