@@ -3,21 +3,21 @@ Sharon Story Smith storysmithsharon@gmail.com
 2019-01-20
 Bootstrap, NodeJS, ExpressJS, jQuery
 
-Screen Shots:
+Screen Shots:  
     [screenshot 1](FriendF1ScreenShot.png)    
     [screenshot 2](FriendF2ScreenShot.png)    
     [screenshot 3](FriendF3ScreenShot.png)    
 
-Working Demo:
+Working Demo:  
     https://blooming-dawn-72157.herokuapp.com/
 
-Developer: 
+Developer:   
     -After downloading from GitHub,  
     -Run "$npm install" on the git bash command line.    
     -Enter "$node server.js" on the git bash command line.    
     -open a browser and enter http://localhost:3000     
     
-Overview:
+Overview:  
     * An app to find people who are compatible in their interpersonal relationships.    
     * A survey form is displayed to the new participant to fill out. Then, the app finds a
       compatible friend and displays the matching participant is displayed.     
@@ -26,7 +26,7 @@ Overview:
       array.    
 
 
-App Design:
+App Design:  
     _ The survey data is checked against the data stored in the JSON array. A score is
       calculated based on the absolute difference between the two answers.          
     _ There is an option to look at the JSON array data - a simple display to the screen.          
