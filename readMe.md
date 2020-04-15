@@ -4,18 +4,18 @@ Sharon Story Smith storysmithsharon@gmail.com
 Bootstrap, NodeJS, ExpressJS, jQuery
 
 Screen Shots:
-    [screenshot 1](FriendF1ScreenShot.png)
-    [screenshot 2](FriendF2ScreenShot.png)
-    [screenshot 3 ](FriendF3ScreenShot.png)
+    [screenshot 1](FriendF1ScreenShot.png)    
+    [screenshot 2](FriendF2ScreenShot.png)    
+    [screenshot 3](FriendF3ScreenShot.png)    
 
 Working Demo:
     https://blooming-dawn-72157.herokuapp.com/
 
 Developer: 
-    -After downloading from GitHub,
-    -Run "$npm install" on the git bash command line.
-    -Enter "$node server.js" on the git bash command line.
-    -open a browser and enter http://localhost:3000
+    -After downloading from GitHub,  
+    -Run "$npm install" on the git bash command line.    
+    -Enter "$node server.js" on the git bash command line.    
+    -open a browser and enter http://localhost:3000     
     
 Overview:
     * An app to find people who are compatible in their interpersonal relationships.
